@@ -1,0 +1,77 @@
+#debug: true
+
+server:
+  port: 8082
+
+logging:
+  config: classpath:logback/logback-prod.xml
+
+
+
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    druid:
+      url: jdbc:mysql://172.11.1.51:3306/test2?useSSL=false&useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&serverTimezone=Asia/Shanghai
+      username: root
+      password: WLtayt$181
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      initialSize: 10
+      maxActive: 30
+      minIdle: 10
+      maxWait: 2000
+      timeBetweenEvictionRunsMillis: 60000
+      minEvictableIdleTimeMillis: 30000
+      validationQuery: SELECT 1 FROM DUAL
+      testWhileIdle: true
+      testOnBorrow: false
+      testOnReturn: false
+
+      poolPreparedStatements: true
+      maxOpenPreparedStatements: 20
+
+
+      #配置监控统计拦截的filters, stat: 监控统计、slf4j:日志记录、wall:预防sql注入
+      filters: stat,wall,slf4j
+      maxPoolPreparedStatementPerConnectionSize: 20
+      useGlobalDataSourceStat: true
+      connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=500
+  aop:
+    auto: true
+#    ?
+    proxy-target-class: true
+
+
+
+  ##初始连接数，默认0
+  #  spring.datasource.druid.initialSize=10
+  #最大连接数，默认8
+  #  spring.datasource.druid.maxActive=30
+  #  spring.datasource.druid.minIdle=10
+  #获取连接的最大等待时间，单位毫秒
+  #  spring.datasource.druid.maxWait=2000
+  #缓存PreparedStatement，默认false
+  #spring.datasource.druid.poolPreparedStatements=true
+  #缓存PreparedStatement的最大数量，默认-1（不缓存）。大于0时会自动开启缓存PreparedStatement，所以可以省略上一句设置
+  servlet:
+    multipart:
+      max-file-size: 10
+      max-request-size: 100
+
+  profiles:
+    active: dev
+#  spring.datasource.druid.maxOpenPreparedStatements=20
+mybatis:
+  type-aliases-package: com.ta.springboot02.pojo
+  mapper-locations: classpath:mapper/*.xml
+
+
+#pagehelper
+pagehelper:
+  helterDialect: mysql
+  reasonable: true
+  supportMethodsArguments: true
+  params: count=sountSql
+  returnPageInfo: check
+
+

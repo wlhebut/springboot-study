@@ -1,0 +1,980 @@
+23:21:38.764 [main] INFO  MyTest - org.springframework.context.annotation.internalConfigurationAnnotationProcessor
+23:21:38.768 [main] INFO  MyTest - org.springframework.context.annotation.internalAutowiredAnnotationProcessor
+23:21:38.769 [main] INFO  MyTest - org.springframework.context.annotation.internalRequiredAnnotationProcessor
+23:21:38.769 [main] INFO  MyTest - org.springframework.context.annotation.internalCommonAnnotationProcessor
+23:21:38.769 [main] INFO  MyTest - org.springframework.context.event.internalEventListenerProcessor
+23:21:38.769 [main] INFO  MyTest - org.springframework.context.event.internalEventListenerFactory
+23:21:38.769 [main] INFO  MyTest - mainConfig
+23:21:38.769 [main] INFO  MyTest - helloController
+23:21:38.769 [main] INFO  MyTest - person2
+23:26:44.265 [main] INFO  com.ta.bean.config.MyTypeFilter - 123
+23:26:44.267 [main] INFO  com.ta.bean.config.MyTypeFilter - annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7722c3c3
+23:26:44.269 [main] INFO  com.ta.bean.config.MyTypeFilter - resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+23:26:44.269 [main] INFO  com.ta.bean.config.MyTypeFilter - classNamecom.ta.bean.config.MyTypeFilter
+23:26:44.270 [main] INFO  com.ta.bean.config.MyTypeFilter - 123
+23:26:44.270 [main] INFO  com.ta.bean.config.MyTypeFilter - annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@2f7298b
+23:26:44.270 [main] INFO  com.ta.bean.config.MyTypeFilter - resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+23:26:44.271 [main] INFO  com.ta.bean.config.MyTypeFilter - classNamecom.ta.bean.controller.HelloController
+23:26:44.272 [main] INFO  com.ta.bean.config.MyTypeFilter - 123
+23:26:44.272 [main] INFO  com.ta.bean.config.MyTypeFilter - annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@5119fb47
+23:26:44.272 [main] INFO  com.ta.bean.config.MyTypeFilter - resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+23:26:44.272 [main] INFO  com.ta.bean.config.MyTypeFilter - classNamecom.ta.bean.dao.HelloDao
+23:26:44.273 [main] INFO  com.ta.bean.config.MyTypeFilter - 123
+23:26:44.273 [main] INFO  com.ta.bean.config.MyTypeFilter - annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7193666c
+23:26:44.273 [main] INFO  com.ta.bean.config.MyTypeFilter - resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+23:26:44.273 [main] INFO  com.ta.bean.config.MyTypeFilter - classNamecom.ta.bean.Person
+23:26:44.275 [main] INFO  com.ta.bean.config.MyTypeFilter - 123
+23:26:44.275 [main] INFO  com.ta.bean.config.MyTypeFilter - annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7714e963
+23:26:44.275 [main] INFO  com.ta.bean.config.MyTypeFilter - resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+23:26:44.275 [main] INFO  com.ta.bean.config.MyTypeFilter - classNamecom.ta.bean.service.HelloService
+23:26:44.276 [main] INFO  com.ta.bean.config.MyTypeFilter - 123
+23:26:44.276 [main] INFO  com.ta.bean.config.MyTypeFilter - annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@20ce78ec
+23:26:44.276 [main] INFO  com.ta.bean.config.MyTypeFilter - resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+23:26:44.276 [main] INFO  com.ta.bean.config.MyTypeFilter - classNamecom.ta.bean.service.HelloServiceImpl
+23:26:44.434 [main] INFO  MyTest - org.springframework.context.annotation.internalConfigurationAnnotationProcessor
+23:26:44.435 [main] INFO  MyTest - org.springframework.context.annotation.internalAutowiredAnnotationProcessor
+23:26:44.435 [main] INFO  MyTest - org.springframework.context.annotation.internalRequiredAnnotationProcessor
+23:26:44.435 [main] INFO  MyTest - org.springframework.context.annotation.internalCommonAnnotationProcessor
+23:26:44.435 [main] INFO  MyTest - org.springframework.context.event.internalEventListenerProcessor
+23:26:44.435 [main] INFO  MyTest - org.springframework.context.event.internalEventListenerFactory
+23:26:44.435 [main] INFO  MyTest - mainConfig
+23:26:44.435 [main] INFO  MyTest - person2
+23:27:30.846 [main] INFO  com.ta.bean.config.MyTypeFilter - 123
+23:27:30.849 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7722c3c3
+23:27:30.850 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+23:27:30.850 [main] INFO  com.ta.bean.config.MyTypeFilter - --->classNamecom.ta.bean.config.MyTypeFilter
+23:27:30.851 [main] INFO  com.ta.bean.config.MyTypeFilter - 123
+23:27:30.851 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@2f7298b
+23:27:30.852 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+23:27:30.852 [main] INFO  com.ta.bean.config.MyTypeFilter - --->classNamecom.ta.bean.controller.HelloController
+23:27:30.853 [main] INFO  com.ta.bean.config.MyTypeFilter - 123
+23:27:30.853 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@5119fb47
+23:27:30.853 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+23:27:30.853 [main] INFO  com.ta.bean.config.MyTypeFilter - --->classNamecom.ta.bean.dao.HelloDao
+23:27:30.854 [main] INFO  com.ta.bean.config.MyTypeFilter - 123
+23:27:30.854 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7193666c
+23:27:30.854 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+23:27:30.854 [main] INFO  com.ta.bean.config.MyTypeFilter - --->classNamecom.ta.bean.Person
+23:27:30.855 [main] INFO  com.ta.bean.config.MyTypeFilter - 123
+23:27:30.855 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7714e963
+23:27:30.855 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+23:27:30.856 [main] INFO  com.ta.bean.config.MyTypeFilter - --->classNamecom.ta.bean.service.HelloService
+23:27:30.856 [main] INFO  com.ta.bean.config.MyTypeFilter - 123
+23:27:30.856 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@20ce78ec
+23:27:30.856 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+23:27:30.856 [main] INFO  com.ta.bean.config.MyTypeFilter - --->classNamecom.ta.bean.service.HelloServiceImpl
+23:27:31.011 [main] INFO  MyTest - org.springframework.context.annotation.internalConfigurationAnnotationProcessor
+23:27:31.011 [main] INFO  MyTest - org.springframework.context.annotation.internalAutowiredAnnotationProcessor
+23:27:31.011 [main] INFO  MyTest - org.springframework.context.annotation.internalRequiredAnnotationProcessor
+23:27:31.011 [main] INFO  MyTest - org.springframework.context.annotation.internalCommonAnnotationProcessor
+23:27:31.011 [main] INFO  MyTest - org.springframework.context.event.internalEventListenerProcessor
+23:27:31.011 [main] INFO  MyTest - org.springframework.context.event.internalEventListenerFactory
+23:27:31.011 [main] INFO  MyTest - mainConfig
+23:27:31.011 [main] INFO  MyTest - person2
+23:28:14.586 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@647e447
+23:28:14.590 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+23:28:14.590 [main] INFO  com.ta.bean.config.MyTypeFilter - --->classNamecom.ta.bean.config.MyTypeFilter
+23:28:14.591 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@2f7298b
+23:28:14.592 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+23:28:14.592 [main] INFO  com.ta.bean.config.MyTypeFilter - --->classNamecom.ta.bean.controller.HelloController
+23:28:14.593 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@5119fb47
+23:28:14.593 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+23:28:14.593 [main] INFO  com.ta.bean.config.MyTypeFilter - --->classNamecom.ta.bean.dao.HelloDao
+23:28:14.594 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7193666c
+23:28:14.594 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+23:28:14.594 [main] INFO  com.ta.bean.config.MyTypeFilter - --->classNamecom.ta.bean.Person
+23:28:14.595 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7714e963
+23:28:14.595 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+23:28:14.595 [main] INFO  com.ta.bean.config.MyTypeFilter - --->classNamecom.ta.bean.service.HelloService
+23:28:14.596 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@20ce78ec
+23:28:14.596 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+23:28:14.596 [main] INFO  com.ta.bean.config.MyTypeFilter - --->classNamecom.ta.bean.service.HelloServiceImpl
+23:28:14.762 [main] INFO  MyTest - org.springframework.context.annotation.internalConfigurationAnnotationProcessor
+23:28:14.762 [main] INFO  MyTest - org.springframework.context.annotation.internalAutowiredAnnotationProcessor
+23:28:14.762 [main] INFO  MyTest - org.springframework.context.annotation.internalRequiredAnnotationProcessor
+23:28:14.762 [main] INFO  MyTest - org.springframework.context.annotation.internalCommonAnnotationProcessor
+23:28:14.762 [main] INFO  MyTest - org.springframework.context.event.internalEventListenerProcessor
+23:28:14.762 [main] INFO  MyTest - org.springframework.context.event.internalEventListenerFactory
+23:28:14.766 [main] INFO  MyTest - mainConfig
+23:28:14.766 [main] INFO  MyTest - person2
+08:18:31.786 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@647e447
+08:18:31.790 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+08:18:31.791 [main] INFO  com.ta.bean.config.MyTypeFilter - --->classNamecom.ta.bean.config.MyTypeFilter
+08:18:31.792 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@2f7298b
+08:18:31.793 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+08:18:31.793 [main] INFO  com.ta.bean.config.MyTypeFilter - --->classNamecom.ta.bean.controller.HelloController
+08:18:31.795 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@5119fb47
+08:18:31.795 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+08:18:31.795 [main] INFO  com.ta.bean.config.MyTypeFilter - --->classNamecom.ta.bean.dao.HelloDao
+08:18:31.796 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7193666c
+08:18:31.796 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+08:18:31.796 [main] INFO  com.ta.bean.config.MyTypeFilter - --->classNamecom.ta.bean.Person
+08:18:31.798 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7714e963
+08:18:31.798 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+08:18:31.798 [main] INFO  com.ta.bean.config.MyTypeFilter - --->classNamecom.ta.bean.service.HelloService
+08:18:31.799 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadataorg.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@20ce78ec
+08:18:31.800 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resourcefile [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+08:18:31.800 [main] INFO  com.ta.bean.config.MyTypeFilter - --->classNamecom.ta.bean.service.HelloServiceImpl
+08:18:32.034 [main] INFO  MyTest - org.springframework.context.annotation.internalConfigurationAnnotationProcessor
+08:18:32.034 [main] INFO  MyTest - org.springframework.context.annotation.internalAutowiredAnnotationProcessor
+08:18:32.034 [main] INFO  MyTest - org.springframework.context.annotation.internalRequiredAnnotationProcessor
+08:18:32.035 [main] INFO  MyTest - org.springframework.context.annotation.internalCommonAnnotationProcessor
+08:18:32.035 [main] INFO  MyTest - org.springframework.context.event.internalEventListenerProcessor
+08:18:32.035 [main] INFO  MyTest - org.springframework.context.event.internalEventListenerFactory
+08:18:32.035 [main] INFO  MyTest - mainConfig
+08:18:32.035 [main] INFO  MyTest - person2
+08:20:32.341 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@647e447
+08:20:32.345 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+08:20:32.345 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+08:20:32.347 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@2f7298b
+08:20:32.348 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+08:20:32.348 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+08:20:32.350 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@5119fb47
+08:20:32.350 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+08:20:32.350 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+08:20:32.351 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7193666c
+08:20:32.352 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+08:20:32.352 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+08:20:32.354 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7714e963
+08:20:32.354 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+08:20:32.354 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+08:20:32.355 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@20ce78ec
+08:20:32.355 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+08:20:32.355 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+08:20:32.504 [main] INFO  MyTest - org.springframework.context.annotation.internalConfigurationAnnotationProcessor
+08:20:32.504 [main] INFO  MyTest - org.springframework.context.annotation.internalAutowiredAnnotationProcessor
+08:20:32.504 [main] INFO  MyTest - org.springframework.context.annotation.internalRequiredAnnotationProcessor
+08:20:32.504 [main] INFO  MyTest - org.springframework.context.annotation.internalCommonAnnotationProcessor
+08:20:32.505 [main] INFO  MyTest - org.springframework.context.event.internalEventListenerProcessor
+08:20:32.506 [main] INFO  MyTest - org.springframework.context.event.internalEventListenerFactory
+08:20:32.506 [main] INFO  MyTest - mainConfig
+08:20:32.506 [main] INFO  MyTest - person2
+08:21:34.899 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@647e447
+08:21:34.903 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+08:21:34.904 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+08:21:34.907 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@2f7298b
+08:21:34.907 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+08:21:34.907 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+08:21:34.909 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@5119fb47
+08:21:34.909 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+08:21:34.909 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+08:21:34.910 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7193666c
+08:21:34.911 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+08:21:34.911 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+08:21:34.913 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7714e963
+08:21:34.914 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+08:21:34.914 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+08:21:34.915 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@20ce78ec
+08:21:34.915 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+08:21:34.916 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+08:21:35.148 [main] INFO  MyTest - =====> org.springframework.context.annotation.internalConfigurationAnnotationProcessor
+08:21:35.148 [main] INFO  MyTest - =====> org.springframework.context.annotation.internalAutowiredAnnotationProcessor
+08:21:35.148 [main] INFO  MyTest - =====> org.springframework.context.annotation.internalRequiredAnnotationProcessor
+08:21:35.148 [main] INFO  MyTest - =====> org.springframework.context.annotation.internalCommonAnnotationProcessor
+08:21:35.148 [main] INFO  MyTest - =====> org.springframework.context.event.internalEventListenerProcessor
+08:21:35.148 [main] INFO  MyTest - =====> org.springframework.context.event.internalEventListenerFactory
+08:21:35.149 [main] INFO  MyTest - =====> mainConfig
+08:21:35.149 [main] INFO  MyTest - =====> person2
+08:23:36.008 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@647e447
+08:23:36.011 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+08:23:36.011 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+08:23:36.011 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+08:23:36.013 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@2f7298b
+08:23:36.013 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+08:23:36.013 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+08:23:36.013 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+08:23:36.014 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@5119fb47
+08:23:36.015 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+08:23:36.015 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+08:23:36.015 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+08:23:36.015 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7193666c
+08:23:36.015 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+08:23:36.016 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+08:23:36.016 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+08:23:36.017 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7714e963
+08:23:36.017 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+08:23:36.017 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+08:23:36.017 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+08:23:36.018 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@20ce78ec
+08:23:36.018 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+08:23:36.019 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+08:23:36.019 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+08:23:36.166 [main] INFO  MyTest - =====> org.springframework.context.annotation.internalConfigurationAnnotationProcessor
+08:23:36.166 [main] INFO  MyTest - =====> org.springframework.context.annotation.internalAutowiredAnnotationProcessor
+08:23:36.166 [main] INFO  MyTest - =====> org.springframework.context.annotation.internalRequiredAnnotationProcessor
+08:23:36.166 [main] INFO  MyTest - =====> org.springframework.context.annotation.internalCommonAnnotationProcessor
+08:23:36.166 [main] INFO  MyTest - =====> org.springframework.context.event.internalEventListenerProcessor
+08:23:36.167 [main] INFO  MyTest - =====> org.springframework.context.event.internalEventListenerFactory
+08:23:36.167 [main] INFO  MyTest - =====> mainConfig
+08:23:36.167 [main] INFO  MyTest - =====> person2
+08:31:42.797 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@647e447
+08:31:42.801 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+08:31:42.802 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+08:31:42.802 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+08:31:42.803 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@2f7298b
+08:31:42.803 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+08:31:42.803 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+08:31:42.804 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+08:31:42.805 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@5119fb47
+08:31:42.805 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+08:31:42.805 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+08:31:42.805 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+08:31:42.806 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7193666c
+08:31:42.806 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+08:31:42.806 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+08:31:42.806 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+08:31:42.808 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7714e963
+08:31:42.808 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+08:31:42.808 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+08:31:42.808 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+08:31:42.809 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@20ce78ec
+08:31:42.809 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+08:31:42.809 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+08:31:42.809 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+08:31:42.961 [main] INFO  MyTest - equals--> {}true
+08:31:42.961 [main] INFO  MyTest - == --> {}true
+08:32:48.148 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@481ba2cf
+08:32:48.152 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+08:32:48.152 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+08:32:48.152 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+08:32:48.154 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@3e6104fc
+08:32:48.154 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+08:32:48.154 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+08:32:48.154 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+08:32:48.156 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7164ca4c
+08:32:48.156 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+08:32:48.156 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+08:32:48.156 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+08:32:48.157 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@4f3bbf68
+08:32:48.157 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+08:32:48.157 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+08:32:48.157 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+08:32:48.159 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7a220c9a
+08:32:48.159 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+08:32:48.159 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+08:32:48.159 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+08:32:48.160 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@2421cc4
+08:32:48.160 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+08:32:48.160 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+08:32:48.161 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+08:41:41.164 [main] INFO  MyTest - equals--> {}true
+08:41:41.165 [main] INFO  MyTest - == --> {}true
+09:00:14.258 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@1efe439d
+09:00:14.262 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+09:00:14.262 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+09:00:14.262 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:00:14.263 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@12359a82
+09:00:14.264 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+09:00:14.264 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+09:00:14.264 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:00:14.265 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@4f3bbf68
+09:00:14.266 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+09:00:14.266 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+09:00:14.266 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:00:14.266 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@5be46f9d
+09:00:14.266 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+09:00:14.266 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+09:00:14.266 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:00:14.268 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@2421cc4
+09:00:14.268 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+09:00:14.268 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+09:00:14.268 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:00:14.269 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@30c93896
+09:00:14.269 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+09:00:14.269 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+09:00:14.270 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:00:22.982 [main] INFO  MyTest - equals--> {}false
+09:00:22.982 [main] INFO  MyTest - == --> {}false
+09:01:32.044 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@1efe439d
+09:01:32.049 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+09:01:32.049 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+09:01:32.049 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:01:32.050 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@12359a82
+09:01:32.051 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+09:01:32.051 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+09:01:32.051 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:01:32.052 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@4f3bbf68
+09:01:32.052 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+09:01:32.052 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+09:01:32.053 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:01:32.053 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@5be46f9d
+09:01:32.053 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+09:01:32.053 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+09:01:32.053 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:01:32.055 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@2421cc4
+09:01:32.056 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+09:01:32.056 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+09:01:32.056 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:01:32.056 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@30c93896
+09:01:32.057 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+09:01:32.057 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+09:01:32.058 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:01:32.299 [main] INFO  MyTest - equals--> {}true
+09:01:32.299 [main] INFO  MyTest - == --> {}true
+09:01:51.110 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@1efe439d
+09:01:51.114 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+09:01:51.114 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+09:01:51.114 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:01:51.116 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@12359a82
+09:01:51.116 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+09:01:51.116 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+09:01:51.116 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:01:51.118 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@4f3bbf68
+09:01:51.118 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+09:01:51.119 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+09:01:51.119 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:01:51.119 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@5be46f9d
+09:01:51.119 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+09:01:51.120 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+09:01:51.120 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:01:51.121 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@2421cc4
+09:01:51.122 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+09:01:51.122 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+09:01:51.122 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:01:51.123 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@30c93896
+09:01:51.123 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+09:01:51.123 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+09:01:51.124 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:01:57.428 [main] INFO  MyTest - equals--> {}true
+09:01:57.429 [main] INFO  MyTest - == --> {}true
+09:10:18.519 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7714e963
+09:10:18.523 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MainConfig2.class]
+09:10:18.523 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MainConfig2
+09:10:18.523 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:10:18.524 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@333291e3
+09:10:18.524 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+09:10:18.524 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+09:10:18.524 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:10:18.524 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@479d31f3
+09:10:18.524 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+09:10:18.525 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+09:10:18.525 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:10:18.525 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@40ef3420
+09:10:18.525 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+09:10:18.525 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+09:10:18.525 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:10:18.526 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@498d318c
+09:10:18.526 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+09:10:18.526 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+09:10:18.526 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:10:18.527 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@6e171cd7
+09:10:18.527 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+09:10:18.527 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+09:10:18.527 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:10:18.529 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@402bba4f
+09:10:18.530 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+09:10:18.530 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+09:10:18.530 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:10:18.769 [main] INFO  MyTest - systemProperties----> {} {java.runtime.name=Java(TM) SE Runtime Environment, sun.boot.library.path=C:\Program Files\Java\jdk1.8.0_144\jre\bin, java.vm.version=25.144-b01, java.vm.vendor=Oracle Corporation, java.vendor.url=http://java.oracle.com/, path.separator=;, java.vm.name=Java HotSpot(TM) 64-Bit Server VM, file.encoding.pkg=sun.io, user.country=CN, user.script=, sun.java.launcher=SUN_STANDARD, sun.os.patch.level=, java.vm.specification.name=Java Virtual Machine Specification, user.dir=C:\idea_workspace\springboot-study\spring-annotation, java.runtime.version=1.8.0_144-b01, java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment, java.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_144\jre\lib\endorsed, os.arch=amd64, java.io.tmpdir=C:\Users\wltay\AppData\Local\Temp\, line.separator=
+, java.vm.specification.vendor=Oracle Corporation, user.variant=, os.name=Windows 10, sun.jnu.encoding=GBK, java.library.path=C:\Program Files\Java\jdk1.8.0_144\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;"C:\Program Files\Java\jdk1.8.0_144\bin;C:\Program Files\Java\jdk1.8.0_144\jre\bin";C:\apache-maven-3.5.4\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseSVN\bin;C:\Users\wltay\AppData\Local\Microsoft\WindowsApps;;., java.specification.name=Java Platform API Specification, java.class.version=52.0, sun.management.compiler=HotSpot 64-Bit Tiered Compilers, os.version=10.0, user.home=C:\Users\wltay, user.timezone=Asia/Shanghai, java.awt.printerjob=sun.awt.windows.WPrinterJob, file.encoding=UTF-8, java.specification.version=1.8, java.class.path=C:\ideaIU-2018.3.1.win\lib\idea_rt.jar;C:\ideaIU-2018.3.1.win\plugins\junit\lib\junit-rt.jar;C:\ideaIU-2018.3.1.win\plugins\junit\lib\junit5-rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\idea_workspace\springboot-study\spring-annotation\target\test-classes;C:\idea_workspace\springboot-study\spring-annotation\target\classes;C:\repo\maven_repository\org\springframework\spring-context\4.3.12.RELEASE\spring-context-4.3.12.RELEASE.jar;C:\repo\maven_repository\org\springframework\spring-aop\4.3.12.RELEASE\spring-aop-4.3.12.RELEASE.jar;C:\repo\maven_repository\org\springframework\spring-beans\4.3.12.RELEASE\spring-beans-4.3.12.RELEASE.jar;C:\repo\maven_repository\org\springframework\spring-core\4.3.12.RELEASE\spring-core-4.3.12.RELEASE.jar;C:\repo\maven_repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\repo\maven_repository\org\springframework\spring-expression\4.3.12.RELEASE\spring-expression-4.3.12.RELEASE.jar;C:\repo\maven_repository\junit\junit\4.12\junit-4.12.jar;C:\repo\maven_repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\repo\maven_repository\org\projectlombok\lombok\1.18.8\lombok-1.18.8.jar;C:\repo\maven_repository\org\slf4j\slf4j-api\1.7.29\slf4j-api-1.7.29.jar;C:\repo\maven_repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar;C:\repo\maven_repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar;C:\ideaIU-2018.3.1.win\lib\idea_rt.jar, user.name=wltay, java.vm.specification.version=1.8, sun.java.command=com.intellij.rt.execution.junit.JUnitStarter -ideVersion5 -junit4 MyTest,testScpe, java.home=C:\Program Files\Java\jdk1.8.0_144\jre, sun.arch.data.model=64, user.language=zh, java.specification.vendor=Oracle Corporation, awt.toolkit=sun.awt.windows.WToolkit, java.vm.info=mixed mode, java.version=1.8.0_144, java.ext.dirs=C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext;C:\Windows\Sun\Java\lib\ext, sun.boot.class.path=C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\classes, java.vendor=Oracle Corporation, file.separator=\, java.vendor.url.bug=http://bugreport.sun.com/bugreport/, idea.test.cyclic.buffer.size=1048576, sun.io.unicode.encoding=UnicodeLittle, sun.cpu.endian=little, sun.desktop=windows, sun.cpu.isalist=amd64}
+09:10:18.769 [main] INFO  MyTest - property---> Windows 10 
+09:10:18.770 [main] INFO  MyTest - {person=com.ta.bean.Person@6e509ffa, bill=com.ta.bean.Person@2898ac89, lin=com.ta.bean.Person@683dbc2c}
+09:11:02.889 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7714e963
+09:11:02.893 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MainConfig2.class]
+09:11:02.893 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MainConfig2
+09:11:02.893 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:11:02.893 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@333291e3
+09:11:02.893 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+09:11:02.894 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+09:11:02.894 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:11:02.894 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@479d31f3
+09:11:02.894 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+09:11:02.894 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+09:11:02.894 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:11:02.895 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@40ef3420
+09:11:02.895 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+09:11:02.895 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+09:11:02.895 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:11:02.896 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@498d318c
+09:11:02.896 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+09:11:02.896 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+09:11:02.896 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:11:02.897 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@6e171cd7
+09:11:02.898 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+09:11:02.898 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+09:11:02.898 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:11:02.899 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@402bba4f
+09:11:02.899 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+09:11:02.899 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+09:11:02.899 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:11:03.064 [main] INFO  MyTest - systemProperties----> {} {java.runtime.name=Java(TM) SE Runtime Environment, sun.boot.library.path=C:\Program Files\Java\jdk1.8.0_144\jre\bin, java.vm.version=25.144-b01, java.vm.vendor=Oracle Corporation, java.vendor.url=http://java.oracle.com/, path.separator=;, java.vm.name=Java HotSpot(TM) 64-Bit Server VM, file.encoding.pkg=sun.io, user.country=CN, user.script=, sun.java.launcher=SUN_STANDARD, sun.os.patch.level=, java.vm.specification.name=Java Virtual Machine Specification, user.dir=C:\idea_workspace\springboot-study\spring-annotation, java.runtime.version=1.8.0_144-b01, java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment, java.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_144\jre\lib\endorsed, os.arch=amd64, java.io.tmpdir=C:\Users\wltay\AppData\Local\Temp\, line.separator=
+, java.vm.specification.vendor=Oracle Corporation, user.variant=, os.name=Windows 10, sun.jnu.encoding=GBK, java.library.path=C:\Program Files\Java\jdk1.8.0_144\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;"C:\Program Files\Java\jdk1.8.0_144\bin;C:\Program Files\Java\jdk1.8.0_144\jre\bin";C:\apache-maven-3.5.4\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseSVN\bin;C:\Users\wltay\AppData\Local\Microsoft\WindowsApps;;., java.specification.name=Java Platform API Specification, java.class.version=52.0, sun.management.compiler=HotSpot 64-Bit Tiered Compilers, os.version=10.0, user.home=C:\Users\wltay, user.timezone=Asia/Shanghai, java.awt.printerjob=sun.awt.windows.WPrinterJob, file.encoding=UTF-8, java.specification.version=1.8, java.class.path=C:\ideaIU-2018.3.1.win\lib\idea_rt.jar;C:\ideaIU-2018.3.1.win\plugins\junit\lib\junit-rt.jar;C:\ideaIU-2018.3.1.win\plugins\junit\lib\junit5-rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\idea_workspace\springboot-study\spring-annotation\target\test-classes;C:\idea_workspace\springboot-study\spring-annotation\target\classes;C:\repo\maven_repository\org\springframework\spring-context\4.3.12.RELEASE\spring-context-4.3.12.RELEASE.jar;C:\repo\maven_repository\org\springframework\spring-aop\4.3.12.RELEASE\spring-aop-4.3.12.RELEASE.jar;C:\repo\maven_repository\org\springframework\spring-beans\4.3.12.RELEASE\spring-beans-4.3.12.RELEASE.jar;C:\repo\maven_repository\org\springframework\spring-core\4.3.12.RELEASE\spring-core-4.3.12.RELEASE.jar;C:\repo\maven_repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\repo\maven_repository\org\springframework\spring-expression\4.3.12.RELEASE\spring-expression-4.3.12.RELEASE.jar;C:\repo\maven_repository\junit\junit\4.12\junit-4.12.jar;C:\repo\maven_repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\repo\maven_repository\org\projectlombok\lombok\1.18.8\lombok-1.18.8.jar;C:\repo\maven_repository\org\slf4j\slf4j-api\1.7.29\slf4j-api-1.7.29.jar;C:\repo\maven_repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar;C:\repo\maven_repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar;C:\ideaIU-2018.3.1.win\lib\idea_rt.jar, user.name=wltay, java.vm.specification.version=1.8, sun.java.command=com.intellij.rt.execution.junit.JUnitStarter -ideVersion5 -junit4 MyTest,testScpe, java.home=C:\Program Files\Java\jdk1.8.0_144\jre, sun.arch.data.model=64, user.language=zh, java.specification.vendor=Oracle Corporation, awt.toolkit=sun.awt.windows.WToolkit, java.vm.info=mixed mode, java.version=1.8.0_144, java.ext.dirs=C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext;C:\Windows\Sun\Java\lib\ext, sun.boot.class.path=C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\classes, java.vendor=Oracle Corporation, file.separator=\, java.vendor.url.bug=http://bugreport.sun.com/bugreport/, idea.test.cyclic.buffer.size=1048576, sun.io.unicode.encoding=UnicodeLittle, sun.cpu.endian=little, sun.desktop=windows, sun.cpu.isalist=amd64}
+09:11:03.064 [main] INFO  MyTest - property---> Windows 10 
+09:11:03.065 [main] INFO  MyTest - ---===={person=com.ta.bean.Person@6e509ffa, bill=com.ta.bean.Person@2898ac89, lin=com.ta.bean.Person@683dbc2c}
+09:12:43.180 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7714e963
+09:12:43.183 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MainConfig2.class]
+09:12:43.184 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MainConfig2
+09:12:43.184 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:12:43.184 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@333291e3
+09:12:43.184 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+09:12:43.184 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+09:12:43.185 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:12:43.185 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@479d31f3
+09:12:43.185 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+09:12:43.185 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+09:12:43.185 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:12:43.186 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@40ef3420
+09:12:43.186 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+09:12:43.186 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+09:12:43.186 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:12:43.191 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@498d318c
+09:12:43.192 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+09:12:43.192 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+09:12:43.192 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:12:43.193 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@6e171cd7
+09:12:43.193 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+09:12:43.194 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+09:12:43.194 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:12:43.196 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@402bba4f
+09:12:43.196 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+09:12:43.196 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+09:12:43.196 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+09:12:43.392 [main] INFO  MyTest - systemProperties----> {} {java.runtime.name=Java(TM) SE Runtime Environment, sun.boot.library.path=C:\Program Files\Java\jdk1.8.0_144\jre\bin, java.vm.version=25.144-b01, java.vm.vendor=Oracle Corporation, java.vendor.url=http://java.oracle.com/, path.separator=;, java.vm.name=Java HotSpot(TM) 64-Bit Server VM, file.encoding.pkg=sun.io, user.country=CN, user.script=, sun.java.launcher=SUN_STANDARD, sun.os.patch.level=, java.vm.specification.name=Java Virtual Machine Specification, user.dir=C:\idea_workspace\springboot-study\spring-annotation, java.runtime.version=1.8.0_144-b01, java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment, java.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_144\jre\lib\endorsed, os.arch=amd64, java.io.tmpdir=C:\Users\wltay\AppData\Local\Temp\, line.separator=
+, java.vm.specification.vendor=Oracle Corporation, user.variant=, os.name=Windows 10, sun.jnu.encoding=GBK, java.library.path=C:\Program Files\Java\jdk1.8.0_144\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;"C:\Program Files\Java\jdk1.8.0_144\bin;C:\Program Files\Java\jdk1.8.0_144\jre\bin";C:\apache-maven-3.5.4\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseSVN\bin;C:\Users\wltay\AppData\Local\Microsoft\WindowsApps;;., java.specification.name=Java Platform API Specification, java.class.version=52.0, sun.management.compiler=HotSpot 64-Bit Tiered Compilers, os.version=10.0, user.home=C:\Users\wltay, user.timezone=Asia/Shanghai, java.awt.printerjob=sun.awt.windows.WPrinterJob, file.encoding=UTF-8, java.specification.version=1.8, java.class.path=C:\ideaIU-2018.3.1.win\lib\idea_rt.jar;C:\ideaIU-2018.3.1.win\plugins\junit\lib\junit-rt.jar;C:\ideaIU-2018.3.1.win\plugins\junit\lib\junit5-rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\idea_workspace\springboot-study\spring-annotation\target\test-classes;C:\idea_workspace\springboot-study\spring-annotation\target\classes;C:\repo\maven_repository\org\springframework\spring-context\4.3.12.RELEASE\spring-context-4.3.12.RELEASE.jar;C:\repo\maven_repository\org\springframework\spring-aop\4.3.12.RELEASE\spring-aop-4.3.12.RELEASE.jar;C:\repo\maven_repository\org\springframework\spring-beans\4.3.12.RELEASE\spring-beans-4.3.12.RELEASE.jar;C:\repo\maven_repository\org\springframework\spring-core\4.3.12.RELEASE\spring-core-4.3.12.RELEASE.jar;C:\repo\maven_repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\repo\maven_repository\org\springframework\spring-expression\4.3.12.RELEASE\spring-expression-4.3.12.RELEASE.jar;C:\repo\maven_repository\junit\junit\4.12\junit-4.12.jar;C:\repo\maven_repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\repo\maven_repository\org\projectlombok\lombok\1.18.8\lombok-1.18.8.jar;C:\repo\maven_repository\org\slf4j\slf4j-api\1.7.29\slf4j-api-1.7.29.jar;C:\repo\maven_repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar;C:\repo\maven_repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar;C:\ideaIU-2018.3.1.win\lib\idea_rt.jar, user.name=wltay, java.vm.specification.version=1.8, sun.java.command=com.intellij.rt.execution.junit.JUnitStarter -ideVersion5 -junit4 MyTest,testScpe, java.home=C:\Program Files\Java\jdk1.8.0_144\jre, sun.arch.data.model=64, user.language=zh, java.specification.vendor=Oracle Corporation, awt.toolkit=sun.awt.windows.WToolkit, java.vm.info=mixed mode, java.version=1.8.0_144, java.ext.dirs=C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext;C:\Windows\Sun\Java\lib\ext, sun.boot.class.path=C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\classes, java.vendor=Oracle Corporation, file.separator=\, java.vendor.url.bug=http://bugreport.sun.com/bugreport/, idea.test.cyclic.buffer.size=1048576, sun.io.unicode.encoding=UnicodeLittle, sun.cpu.endian=little, sun.desktop=windows, sun.cpu.isalist=amd64}
+09:12:43.393 [main] INFO  MyTest - property---> Windows 10 
+09:12:43.394 [main] INFO  MyTest - ---===={person=com.ta.bean.Person@6e509ffa, bill=com.ta.bean.Person@2898ac89, lin=com.ta.bean.Person@683dbc2c}
+10:14:35.060 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@3835c46
+10:14:35.063 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\LinuxCondition.class]
+10:14:35.064 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.LinuxCondition
+10:14:35.064 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:14:35.064 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@1ab3a8c8
+10:14:35.065 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\WindowsCondition.class]
+10:14:35.065 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.WindowsCondition
+10:14:35.065 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:14:35.067 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@40ef3420
+10:14:35.068 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MainConfig2.class]
+10:14:35.068 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MainConfig2
+10:14:35.068 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:14:35.069 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@498d318c
+10:14:35.069 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyCondition.class]
+10:14:35.069 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyCondition
+10:14:35.069 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:14:35.070 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@6e171cd7
+10:14:35.070 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+10:14:35.070 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+10:14:35.070 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:14:35.071 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@402bba4f
+10:14:35.071 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+10:14:35.071 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+10:14:35.071 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:14:35.073 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@795cd85e
+10:14:35.073 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+10:14:35.073 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+10:14:35.073 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:14:35.074 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@59fd97a8
+10:14:35.074 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+10:14:35.074 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+10:14:35.074 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:14:35.075 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@f5ac9e4
+10:14:35.075 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+10:14:35.075 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+10:14:35.075 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:14:35.076 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@123ef382
+10:14:35.077 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+10:14:35.077 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+10:14:35.077 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:14:35.093 [main] INFO  c.ta.bean.condition.WindowsCondition - metadata--->org.springframework.core.type.StandardMethodMetadata@3bb9a3ff
+10:14:35.093 [main] INFO  c.ta.bean.condition.WindowsCondition - metadata.getClass();--->class org.springframework.core.type.StandardMethodMetadata
+10:14:35.340 [main] INFO  MyTest - systemProperties----> {} {java.runtime.name=Java(TM) SE Runtime Environment, sun.boot.library.path=C:\Program Files\Java\jdk1.8.0_144\jre\bin, java.vm.version=25.144-b01, java.vm.vendor=Oracle Corporation, java.vendor.url=http://java.oracle.com/, path.separator=;, java.vm.name=Java HotSpot(TM) 64-Bit Server VM, file.encoding.pkg=sun.io, user.country=CN, user.script=, sun.java.launcher=SUN_STANDARD, sun.os.patch.level=, java.vm.specification.name=Java Virtual Machine Specification, user.dir=C:\idea_workspace\springboot-study\spring-annotation, java.runtime.version=1.8.0_144-b01, java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment, java.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_144\jre\lib\endorsed, os.arch=amd64, java.io.tmpdir=C:\Users\wltay\AppData\Local\Temp\, line.separator=
+, java.vm.specification.vendor=Oracle Corporation, user.variant=, os.name=Windows 10, sun.jnu.encoding=GBK, java.library.path=C:\Program Files\Java\jdk1.8.0_144\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;"C:\Program Files\Java\jdk1.8.0_144\bin;C:\Program Files\Java\jdk1.8.0_144\jre\bin";C:\apache-maven-3.5.4\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseSVN\bin;C:\Users\wltay\AppData\Local\Microsoft\WindowsApps;;., java.specification.name=Java Platform API Specification, java.class.version=52.0, sun.management.compiler=HotSpot 64-Bit Tiered Compilers, os.version=10.0, user.home=C:\Users\wltay, user.timezone=Asia/Shanghai, java.awt.printerjob=sun.awt.windows.WPrinterJob, file.encoding=UTF-8, java.specification.version=1.8, java.class.path=C:\ideaIU-2018.3.1.win\lib\idea_rt.jar;C:\ideaIU-2018.3.1.win\plugins\junit\lib\junit-rt.jar;C:\ideaIU-2018.3.1.win\plugins\junit\lib\junit5-rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\idea_workspace\springboot-study\spring-annotation\target\test-classes;C:\idea_workspace\springboot-study\spring-annotation\target\classes;C:\repo\maven_repository\org\springframework\spring-context\4.3.12.RELEASE\spring-context-4.3.12.RELEASE.jar;C:\repo\maven_repository\org\springframework\spring-aop\4.3.12.RELEASE\spring-aop-4.3.12.RELEASE.jar;C:\repo\maven_repository\org\springframework\spring-beans\4.3.12.RELEASE\spring-beans-4.3.12.RELEASE.jar;C:\repo\maven_repository\org\springframework\spring-core\4.3.12.RELEASE\spring-core-4.3.12.RELEASE.jar;C:\repo\maven_repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\repo\maven_repository\org\springframework\spring-expression\4.3.12.RELEASE\spring-expression-4.3.12.RELEASE.jar;C:\repo\maven_repository\junit\junit\4.12\junit-4.12.jar;C:\repo\maven_repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\repo\maven_repository\org\projectlombok\lombok\1.18.8\lombok-1.18.8.jar;C:\repo\maven_repository\org\slf4j\slf4j-api\1.7.29\slf4j-api-1.7.29.jar;C:\repo\maven_repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar;C:\repo\maven_repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar;C:\ideaIU-2018.3.1.win\lib\idea_rt.jar, user.name=wltay, java.vm.specification.version=1.8, sun.java.command=com.intellij.rt.execution.junit.JUnitStarter -ideVersion5 -junit4 MyTest,testScpe, java.home=C:\Program Files\Java\jdk1.8.0_144\jre, sun.arch.data.model=64, user.language=zh, java.specification.vendor=Oracle Corporation, awt.toolkit=sun.awt.windows.WToolkit, java.vm.info=mixed mode, java.version=1.8.0_144, java.ext.dirs=C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext;C:\Windows\Sun\Java\lib\ext, sun.boot.class.path=C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\classes, java.vendor=Oracle Corporation, file.separator=\, java.vendor.url.bug=http://bugreport.sun.com/bugreport/, idea.test.cyclic.buffer.size=1048576, sun.io.unicode.encoding=UnicodeLittle, sun.cpu.endian=little, sun.desktop=windows, sun.cpu.isalist=amd64}
+10:14:35.340 [main] INFO  MyTest - property---> Windows 10 
+10:14:35.341 [main] INFO  MyTest - ---===={person=com.ta.bean.Person@a1cdc6d, bill=com.ta.bean.Person@175b9425}
+10:15:06.698 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@3835c46
+10:15:06.702 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\LinuxCondition.class]
+10:15:06.702 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.LinuxCondition
+10:15:06.702 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:06.703 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@1ab3a8c8
+10:15:06.703 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\WindowsCondition.class]
+10:15:06.703 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.WindowsCondition
+10:15:06.703 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:06.706 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@40ef3420
+10:15:06.706 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MainConfig2.class]
+10:15:06.706 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MainConfig2
+10:15:06.706 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:06.707 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@498d318c
+10:15:06.707 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyCondition.class]
+10:15:06.707 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyCondition
+10:15:06.707 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:06.708 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@6e171cd7
+10:15:06.708 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+10:15:06.708 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+10:15:06.708 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:06.709 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@402bba4f
+10:15:06.709 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+10:15:06.709 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+10:15:06.709 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:06.711 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@795cd85e
+10:15:06.711 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+10:15:06.711 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+10:15:06.711 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:06.712 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@59fd97a8
+10:15:06.712 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+10:15:06.712 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+10:15:06.712 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:06.713 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@f5ac9e4
+10:15:06.713 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+10:15:06.713 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+10:15:06.713 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:06.714 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@123ef382
+10:15:06.714 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+10:15:06.714 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+10:15:06.714 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:06.731 [main] INFO  c.ta.bean.condition.WindowsCondition - metadata--->org.springframework.core.type.StandardMethodMetadata@3bb9a3ff
+10:15:06.731 [main] INFO  c.ta.bean.condition.WindowsCondition - metadata.getClass();--->class org.springframework.core.type.StandardMethodMetadata
+10:15:06.978 [main] INFO  MyTest - systemProperties----> {} {java.runtime.name=Java(TM) SE Runtime Environment, sun.boot.library.path=C:\Program Files\Java\jdk1.8.0_144\jre\bin, java.vm.version=25.144-b01, java.vm.vendor=Oracle Corporation, java.vendor.url=http://java.oracle.com/, path.separator=;, java.vm.name=Java HotSpot(TM) 64-Bit Server VM, file.encoding.pkg=sun.io, user.country=CN, user.script=, sun.java.launcher=SUN_STANDARD, sun.os.patch.level=, java.vm.specification.name=Java Virtual Machine Specification, user.dir=C:\idea_workspace\springboot-study\spring-annotation, java.runtime.version=1.8.0_144-b01, java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment, java.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_144\jre\lib\endorsed, os.arch=amd64, java.io.tmpdir=C:\Users\wltay\AppData\Local\Temp\, line.separator=
+, java.vm.specification.vendor=Oracle Corporation, user.variant=, os.name=Windows 10, sun.jnu.encoding=GBK, java.library.path=C:\Program Files\Java\jdk1.8.0_144\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;"C:\Program Files\Java\jdk1.8.0_144\bin;C:\Program Files\Java\jdk1.8.0_144\jre\bin";C:\apache-maven-3.5.4\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseSVN\bin;C:\Users\wltay\AppData\Local\Microsoft\WindowsApps;;., java.specification.name=Java Platform API Specification, java.class.version=52.0, sun.management.compiler=HotSpot 64-Bit Tiered Compilers, os.version=10.0, user.home=C:\Users\wltay, user.timezone=Asia/Shanghai, java.awt.printerjob=sun.awt.windows.WPrinterJob, file.encoding=UTF-8, java.specification.version=1.8, java.class.path=C:\ideaIU-2018.3.1.win\lib\idea_rt.jar;C:\ideaIU-2018.3.1.win\plugins\junit\lib\junit-rt.jar;C:\ideaIU-2018.3.1.win\plugins\junit\lib\junit5-rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\idea_workspace\springboot-study\spring-annotation\target\test-classes;C:\idea_workspace\springboot-study\spring-annotation\target\classes;C:\repo\maven_repository\org\springframework\spring-context\4.3.12.RELEASE\spring-context-4.3.12.RELEASE.jar;C:\repo\maven_repository\org\springframework\spring-aop\4.3.12.RELEASE\spring-aop-4.3.12.RELEASE.jar;C:\repo\maven_repository\org\springframework\spring-beans\4.3.12.RELEASE\spring-beans-4.3.12.RELEASE.jar;C:\repo\maven_repository\org\springframework\spring-core\4.3.12.RELEASE\spring-core-4.3.12.RELEASE.jar;C:\repo\maven_repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\repo\maven_repository\org\springframework\spring-expression\4.3.12.RELEASE\spring-expression-4.3.12.RELEASE.jar;C:\repo\maven_repository\junit\junit\4.12\junit-4.12.jar;C:\repo\maven_repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\repo\maven_repository\org\projectlombok\lombok\1.18.8\lombok-1.18.8.jar;C:\repo\maven_repository\org\slf4j\slf4j-api\1.7.29\slf4j-api-1.7.29.jar;C:\repo\maven_repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar;C:\repo\maven_repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar;C:\ideaIU-2018.3.1.win\lib\idea_rt.jar, user.name=wltay, java.vm.specification.version=1.8, sun.java.command=com.intellij.rt.execution.junit.JUnitStarter -ideVersion5 -junit4 MyTest,testScpe, java.home=C:\Program Files\Java\jdk1.8.0_144\jre, sun.arch.data.model=64, user.language=zh, java.specification.vendor=Oracle Corporation, awt.toolkit=sun.awt.windows.WToolkit, java.vm.info=mixed mode, java.version=1.8.0_144, java.ext.dirs=C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext;C:\Windows\Sun\Java\lib\ext, sun.boot.class.path=C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\classes, java.vendor=Oracle Corporation, file.separator=\, java.vendor.url.bug=http://bugreport.sun.com/bugreport/, idea.test.cyclic.buffer.size=1048576, sun.io.unicode.encoding=UnicodeLittle, sun.cpu.endian=little, sun.desktop=windows, sun.cpu.isalist=amd64}
+10:15:06.979 [main] INFO  MyTest - property---> Windows 10 
+10:15:06.979 [main] INFO  MyTest - ---===={person=com.ta.bean.Person@a1cdc6d, bill=com.ta.bean.Person@175b9425, lin=com.ta.bean.Person@3098cf3b}
+10:15:34.463 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@3835c46
+10:15:34.466 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\LinuxCondition.class]
+10:15:34.466 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.LinuxCondition
+10:15:34.466 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:34.467 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@1ab3a8c8
+10:15:34.467 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\WindowsCondition.class]
+10:15:34.467 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.WindowsCondition
+10:15:34.467 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:34.469 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@40ef3420
+10:15:34.470 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MainConfig2.class]
+10:15:34.470 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MainConfig2
+10:15:34.470 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:34.470 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@498d318c
+10:15:34.470 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyCondition.class]
+10:15:34.471 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyCondition
+10:15:34.471 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:34.471 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@6e171cd7
+10:15:34.471 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+10:15:34.472 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+10:15:34.472 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:34.473 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@402bba4f
+10:15:34.473 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+10:15:34.473 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+10:15:34.473 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:34.474 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@795cd85e
+10:15:34.474 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+10:15:34.475 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+10:15:34.475 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:34.475 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@59fd97a8
+10:15:34.475 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+10:15:34.475 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+10:15:34.475 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:34.476 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@f5ac9e4
+10:15:34.476 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+10:15:34.476 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+10:15:34.476 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:34.477 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@123ef382
+10:15:34.477 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+10:15:34.477 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+10:15:34.477 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:15:34.493 [main] INFO  c.ta.bean.condition.WindowsCondition - metadata--->org.springframework.core.type.StandardMethodMetadata@3bb9a3ff
+10:15:34.493 [main] INFO  c.ta.bean.condition.WindowsCondition - metadata.getClass();--->class org.springframework.core.type.StandardMethodMetadata
+10:15:34.662 [main] INFO  MyTest - systemProperties----> {} {java.runtime.name=Java(TM) SE Runtime Environment, sun.boot.library.path=C:\Program Files\Java\jdk1.8.0_144\jre\bin, java.vm.version=25.144-b01, java.vm.vendor=Oracle Corporation, java.vendor.url=http://java.oracle.com/, path.separator=;, java.vm.name=Java HotSpot(TM) 64-Bit Server VM, file.encoding.pkg=sun.io, user.country=CN, user.script=, sun.java.launcher=SUN_STANDARD, sun.os.patch.level=, java.vm.specification.name=Java Virtual Machine Specification, user.dir=C:\idea_workspace\springboot-study\spring-annotation, java.runtime.version=1.8.0_144-b01, java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment, java.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_144\jre\lib\endorsed, os.arch=amd64, java.io.tmpdir=C:\Users\wltay\AppData\Local\Temp\, line.separator=
+, java.vm.specification.vendor=Oracle Corporation, user.variant=, os.name=Windows 10, sun.jnu.encoding=GBK, java.library.path=C:\Program Files\Java\jdk1.8.0_144\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;"C:\Program Files\Java\jdk1.8.0_144\bin;C:\Program Files\Java\jdk1.8.0_144\jre\bin";C:\apache-maven-3.5.4\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseSVN\bin;C:\Users\wltay\AppData\Local\Microsoft\WindowsApps;;., java.specification.name=Java Platform API Specification, java.class.version=52.0, sun.management.compiler=HotSpot 64-Bit Tiered Compilers, os.version=10.0, user.home=C:\Users\wltay, user.timezone=Asia/Shanghai, java.awt.printerjob=sun.awt.windows.WPrinterJob, file.encoding=UTF-8, java.specification.version=1.8, java.class.path=C:\ideaIU-2018.3.1.win\lib\idea_rt.jar;C:\ideaIU-2018.3.1.win\plugins\junit\lib\junit-rt.jar;C:\ideaIU-2018.3.1.win\plugins\junit\lib\junit5-rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\idea_workspace\springboot-study\spring-annotation\target\test-classes;C:\idea_workspace\springboot-study\spring-annotation\target\classes;C:\repo\maven_repository\org\springframework\spring-context\4.3.12.RELEASE\spring-context-4.3.12.RELEASE.jar;C:\repo\maven_repository\org\springframework\spring-aop\4.3.12.RELEASE\spring-aop-4.3.12.RELEASE.jar;C:\repo\maven_repository\org\springframework\spring-beans\4.3.12.RELEASE\spring-beans-4.3.12.RELEASE.jar;C:\repo\maven_repository\org\springframework\spring-core\4.3.12.RELEASE\spring-core-4.3.12.RELEASE.jar;C:\repo\maven_repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\repo\maven_repository\org\springframework\spring-expression\4.3.12.RELEASE\spring-expression-4.3.12.RELEASE.jar;C:\repo\maven_repository\junit\junit\4.12\junit-4.12.jar;C:\repo\maven_repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\repo\maven_repository\org\projectlombok\lombok\1.18.8\lombok-1.18.8.jar;C:\repo\maven_repository\org\slf4j\slf4j-api\1.7.29\slf4j-api-1.7.29.jar;C:\repo\maven_repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar;C:\repo\maven_repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar;C:\ideaIU-2018.3.1.win\lib\idea_rt.jar, user.name=wltay, java.vm.specification.version=1.8, sun.java.command=com.intellij.rt.execution.junit.JUnitStarter -ideVersion5 -junit4 MyTest,testScpe, java.home=C:\Program Files\Java\jdk1.8.0_144\jre, sun.arch.data.model=64, user.language=zh, java.specification.vendor=Oracle Corporation, awt.toolkit=sun.awt.windows.WToolkit, java.vm.info=mixed mode, java.version=1.8.0_144, java.ext.dirs=C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext;C:\Windows\Sun\Java\lib\ext, sun.boot.class.path=C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\classes, java.vendor=Oracle Corporation, file.separator=\, java.vendor.url.bug=http://bugreport.sun.com/bugreport/, idea.test.cyclic.buffer.size=1048576, sun.io.unicode.encoding=UnicodeLittle, sun.cpu.endian=little, sun.desktop=windows, sun.cpu.isalist=amd64}
+10:15:34.663 [main] INFO  MyTest - property---> Windows 10 
+10:15:34.663 [main] INFO  MyTest - ---===={person=com.ta.bean.Person@a1cdc6d, bill=com.ta.bean.Person@175b9425}
+10:23:20.999 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@3835c46
+10:23:21.003 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\LinuxCondition.class]
+10:23:21.003 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.LinuxCondition
+10:23:21.003 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:23:21.003 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@1ab3a8c8
+10:23:21.004 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\WindowsCondition.class]
+10:23:21.004 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.WindowsCondition
+10:23:21.004 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:23:21.006 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@40ef3420
+10:23:21.006 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MainConfig2.class]
+10:23:21.006 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MainConfig2
+10:23:21.006 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:23:21.007 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@498d318c
+10:23:21.007 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyCondition.class]
+10:23:21.007 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyCondition
+10:23:21.007 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:23:21.009 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@6e171cd7
+10:23:21.009 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+10:23:21.009 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+10:23:21.009 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:23:21.010 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@402bba4f
+10:23:21.011 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+10:23:21.011 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+10:23:21.011 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:23:21.013 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@795cd85e
+10:23:21.013 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+10:23:21.014 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+10:23:21.014 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:23:21.014 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@59fd97a8
+10:23:21.015 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+10:23:21.015 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+10:23:21.015 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:23:21.016 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@f5ac9e4
+10:23:21.016 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+10:23:21.016 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+10:23:21.016 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:23:21.017 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@123ef382
+10:23:21.018 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+10:23:21.018 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+10:23:21.018 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:23:21.035 [main] INFO  c.ta.bean.condition.WindowsCondition - metadata--->org.springframework.core.type.StandardMethodMetadata@661972b0
+10:23:21.035 [main] INFO  c.ta.bean.condition.WindowsCondition - metadata.getClass();--->class org.springframework.core.type.StandardMethodMetadata
+10:23:21.265 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalConfigurationAnnotationProcessor
+10:23:21.265 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalAutowiredAnnotationProcessor
+10:23:21.265 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalRequiredAnnotationProcessor
+10:23:21.265 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalCommonAnnotationProcessor
+10:23:21.265 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.event.internalEventListenerProcessor
+10:23:21.265 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.event.internalEventListenerFactory
+10:23:21.265 [main] INFO  MyTest - beanDefinitionName -->mainConfig2
+10:23:21.265 [main] INFO  MyTest - beanDefinitionName -->mainConfig
+10:23:21.266 [main] INFO  MyTest - beanDefinitionName -->helloController
+10:23:21.266 [main] INFO  MyTest - beanDefinitionName -->helloDao
+10:23:21.266 [main] INFO  MyTest - beanDefinitionName -->person
+10:23:21.266 [main] INFO  MyTest - beanDefinitionName -->bill
+10:32:55.753 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7714e963
+10:32:55.756 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\LinuxCondition.class]
+10:32:55.756 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.LinuxCondition
+10:32:55.757 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:32:55.757 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@333291e3
+10:32:55.757 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\WindowsCondition.class]
+10:32:55.757 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.WindowsCondition
+10:32:55.758 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:32:55.760 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@6e171cd7
+10:32:55.760 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MainConfig2.class]
+10:32:55.760 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MainConfig2
+10:32:55.760 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:32:55.761 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@402bba4f
+10:32:55.761 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyCondition.class]
+10:32:55.761 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyCondition
+10:32:55.761 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:32:55.762 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@795cd85e
+10:32:55.762 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+10:32:55.762 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+10:32:55.762 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:32:55.763 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@59fd97a8
+10:32:55.763 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+10:32:55.763 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+10:32:55.763 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:32:55.765 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@f5ac9e4
+10:32:55.765 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+10:32:55.765 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+10:32:55.765 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:32:55.766 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@123ef382
+10:32:55.766 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+10:32:55.766 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+10:32:55.766 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:32:55.767 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@dbf57b3
+10:32:55.767 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\pojo\Color.class]
+10:32:55.767 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.pojo.Color
+10:32:55.767 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:32:55.768 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@384ad17b
+10:32:55.768 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+10:32:55.768 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+10:32:55.768 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:32:55.769 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@61862a7f
+10:32:55.769 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+10:32:55.769 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+10:32:55.769 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:32:55.790 [main] INFO  c.ta.bean.condition.WindowsCondition - metadata--->org.springframework.core.type.StandardMethodMetadata@5ffead27
+10:32:55.790 [main] INFO  c.ta.bean.condition.WindowsCondition - metadata.getClass();--->class org.springframework.core.type.StandardMethodMetadata
+10:32:56.008 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalConfigurationAnnotationProcessor
+10:32:56.008 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalAutowiredAnnotationProcessor
+10:32:56.008 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalRequiredAnnotationProcessor
+10:32:56.008 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalCommonAnnotationProcessor
+10:32:56.008 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.event.internalEventListenerProcessor
+10:32:56.008 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.event.internalEventListenerFactory
+10:32:56.008 [main] INFO  MyTest - beanDefinitionName -->mainConfig2
+10:32:56.008 [main] INFO  MyTest - beanDefinitionName -->mainConfig
+10:32:56.009 [main] INFO  MyTest - beanDefinitionName -->helloController
+10:32:56.009 [main] INFO  MyTest - beanDefinitionName -->helloDao
+10:32:56.009 [main] INFO  MyTest - beanDefinitionName -->person
+10:32:56.009 [main] INFO  MyTest - beanDefinitionName -->com.ta.bean.pojo.Color
+10:32:56.009 [main] INFO  MyTest - beanDefinitionName -->bill
+10:40:19.472 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@393671df
+10:40:19.477 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\LinuxCondition.class]
+10:40:19.477 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.LinuxCondition
+10:40:19.477 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:40:19.478 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@40ef3420
+10:40:19.478 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\MyImportSelector.class]
+10:40:19.478 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.MyImportSelector
+10:40:19.478 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:40:19.478 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@498d318c
+10:40:19.478 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\WindowsCondition.class]
+10:40:19.479 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.WindowsCondition
+10:40:19.479 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:40:19.481 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@59fd97a8
+10:40:19.481 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MainConfig2.class]
+10:40:19.481 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MainConfig2
+10:40:19.481 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:40:19.482 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@f5ac9e4
+10:40:19.482 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyCondition.class]
+10:40:19.482 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyCondition
+10:40:19.482 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:40:19.483 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@123ef382
+10:40:19.483 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+10:40:19.483 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+10:40:19.483 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:40:19.484 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@dbf57b3
+10:40:19.484 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+10:40:19.484 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+10:40:19.484 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:40:19.485 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@384ad17b
+10:40:19.485 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+10:40:19.485 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+10:40:19.485 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:40:19.486 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@61862a7f
+10:40:19.486 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+10:40:19.487 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+10:40:19.487 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:40:19.487 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@441772e
+10:40:19.488 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\pojo\Color.class]
+10:40:19.488 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.pojo.Color
+10:40:19.488 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:40:19.488 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7334aada
+10:40:19.489 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\pojo\Red.class]
+10:40:19.489 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.pojo.Red
+10:40:19.489 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:40:19.490 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@1d9b7cce
+10:40:19.490 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+10:40:19.490 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+10:40:19.490 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:40:19.491 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@4d9e68d0
+10:40:19.491 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+10:40:19.491 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+10:40:19.491 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+10:40:19.514 [main] INFO  c.ta.bean.condition.WindowsCondition - metadata--->org.springframework.core.type.StandardMethodMetadata@6b927fb
+10:40:19.514 [main] INFO  c.ta.bean.condition.WindowsCondition - metadata.getClass();--->class org.springframework.core.type.StandardMethodMetadata
+10:40:19.745 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalConfigurationAnnotationProcessor
+10:40:19.746 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalAutowiredAnnotationProcessor
+10:40:19.746 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalRequiredAnnotationProcessor
+10:40:19.746 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalCommonAnnotationProcessor
+10:40:19.746 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.event.internalEventListenerProcessor
+10:40:19.746 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.event.internalEventListenerFactory
+10:40:19.746 [main] INFO  MyTest - beanDefinitionName -->mainConfig2
+10:40:19.746 [main] INFO  MyTest - beanDefinitionName -->mainConfig
+10:40:19.746 [main] INFO  MyTest - beanDefinitionName -->helloController
+10:40:19.747 [main] INFO  MyTest - beanDefinitionName -->helloDao
+10:40:19.747 [main] INFO  MyTest - beanDefinitionName -->person
+10:40:19.747 [main] INFO  MyTest - beanDefinitionName -->com.ta.bean.pojo.Color
+10:40:19.747 [main] INFO  MyTest - beanDefinitionName -->com.ta.bean.pojo.Red
+10:40:19.747 [main] INFO  MyTest - beanDefinitionName -->bill
+11:07:47.037 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@56620197
+11:07:47.041 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\LinuxCondition.class]
+11:07:47.041 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.LinuxCondition
+11:07:47.041 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:07:47.042 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@498d318c
+11:07:47.042 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\MyImportSelector.class]
+11:07:47.042 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.MyImportSelector
+11:07:47.042 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:07:47.043 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@6e171cd7
+11:07:47.043 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\WindowsCondition.class]
+11:07:47.043 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.WindowsCondition
+11:07:47.043 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:07:47.045 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@123ef382
+11:07:47.046 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MainConfig2.class]
+11:07:47.046 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MainConfig2
+11:07:47.046 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:07:47.047 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@dbf57b3
+11:07:47.047 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyCondition.class]
+11:07:47.047 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyCondition
+11:07:47.047 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:07:47.049 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@384ad17b
+11:07:47.049 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+11:07:47.049 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+11:07:47.049 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:07:47.051 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@61862a7f
+11:07:47.051 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+11:07:47.051 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+11:07:47.051 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:07:47.052 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@441772e
+11:07:47.052 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+11:07:47.053 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+11:07:47.053 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:07:47.053 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7334aada
+11:07:47.054 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+11:07:47.054 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+11:07:47.054 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:07:47.055 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@1d9b7cce
+11:07:47.055 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\pojo\Color.class]
+11:07:47.055 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.pojo.Color
+11:07:47.055 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:07:47.056 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@4d9e68d0
+11:07:47.056 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\pojo\ColorFactoryBean.class]
+11:07:47.056 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.pojo.ColorFactoryBean
+11:07:47.056 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:07:47.056 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@42e99e4a
+11:07:47.056 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\pojo\Red.class]
+11:07:47.056 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.pojo.Red
+11:07:47.056 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:07:47.057 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@14dd9eb7
+11:07:47.057 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+11:07:47.057 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+11:07:47.057 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:07:47.058 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@52e6fdee
+11:07:47.058 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+11:07:47.058 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+11:07:47.058 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:07:47.079 [main] INFO  c.ta.bean.condition.WindowsCondition - metadata--->org.springframework.core.type.StandardMethodMetadata@79924b
+11:07:47.079 [main] INFO  c.ta.bean.condition.WindowsCondition - metadata.getClass();--->class org.springframework.core.type.StandardMethodMetadata
+11:07:47.274 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalConfigurationAnnotationProcessor
+11:07:47.274 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalAutowiredAnnotationProcessor
+11:07:47.274 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalRequiredAnnotationProcessor
+11:07:47.274 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalCommonAnnotationProcessor
+11:07:47.274 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.event.internalEventListenerProcessor
+11:07:47.274 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.event.internalEventListenerFactory
+11:07:47.275 [main] INFO  MyTest - beanDefinitionName -->mainConfig2
+11:07:47.275 [main] INFO  MyTest - beanDefinitionName -->mainConfig
+11:07:47.275 [main] INFO  MyTest - beanDefinitionName -->helloController
+11:07:47.275 [main] INFO  MyTest - beanDefinitionName -->helloDao
+11:07:47.275 [main] INFO  MyTest - beanDefinitionName -->person
+11:07:47.275 [main] INFO  MyTest - beanDefinitionName -->com.ta.bean.pojo.Color
+11:07:47.275 [main] INFO  MyTest - beanDefinitionName -->com.ta.bean.pojo.Red
+11:07:47.275 [main] INFO  MyTest - beanDefinitionName -->bill
+11:07:47.275 [main] INFO  MyTest - beanDefinitionName -->colorFactoryBean
+11:13:12.763 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@56620197
+11:13:12.766 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\LinuxCondition.class]
+11:13:12.767 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.LinuxCondition
+11:13:12.767 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:12.767 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@498d318c
+11:13:12.768 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\MyImportSelector.class]
+11:13:12.768 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.MyImportSelector
+11:13:12.768 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:12.768 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@6e171cd7
+11:13:12.768 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\WindowsCondition.class]
+11:13:12.768 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.WindowsCondition
+11:13:12.768 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:12.770 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@123ef382
+11:13:12.771 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MainConfig2.class]
+11:13:12.771 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MainConfig2
+11:13:12.771 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:12.772 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@dbf57b3
+11:13:12.772 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyCondition.class]
+11:13:12.772 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyCondition
+11:13:12.772 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:12.772 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@384ad17b
+11:13:12.773 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+11:13:12.773 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+11:13:12.773 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:12.774 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@61862a7f
+11:13:12.774 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+11:13:12.774 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+11:13:12.774 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:12.775 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@441772e
+11:13:12.775 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+11:13:12.775 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+11:13:12.775 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:12.776 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7334aada
+11:13:12.776 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+11:13:12.776 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+11:13:12.776 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:12.777 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@1d9b7cce
+11:13:12.777 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\pojo\Color.class]
+11:13:12.777 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.pojo.Color
+11:13:12.777 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:12.777 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@4d9e68d0
+11:13:12.778 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\pojo\ColorFactoryBean.class]
+11:13:12.778 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.pojo.ColorFactoryBean
+11:13:12.778 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:12.778 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@42e99e4a
+11:13:12.778 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\pojo\Red.class]
+11:13:12.779 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.pojo.Red
+11:13:12.779 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:12.780 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@14dd9eb7
+11:13:12.780 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+11:13:12.780 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+11:13:12.780 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:12.780 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@52e6fdee
+11:13:12.780 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+11:13:12.780 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+11:13:12.781 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:12.802 [main] INFO  c.ta.bean.condition.WindowsCondition - metadata--->org.springframework.core.type.StandardMethodMetadata@4fb0f2b9
+11:13:12.802 [main] INFO  c.ta.bean.condition.WindowsCondition - metadata.getClass();--->class org.springframework.core.type.StandardMethodMetadata
+11:13:12.988 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalConfigurationAnnotationProcessor
+11:13:12.988 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalAutowiredAnnotationProcessor
+11:13:12.988 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalRequiredAnnotationProcessor
+11:13:12.988 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalCommonAnnotationProcessor
+11:13:12.988 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.event.internalEventListenerProcessor
+11:13:13.001 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.event.internalEventListenerFactory
+11:13:13.003 [main] INFO  MyTest - beanDefinitionName -->mainConfig2
+11:13:13.004 [main] INFO  MyTest - beanDefinitionName -->mainConfig
+11:13:13.004 [main] INFO  MyTest - beanDefinitionName -->helloController
+11:13:13.004 [main] INFO  MyTest - beanDefinitionName -->helloDao
+11:13:13.004 [main] INFO  MyTest - beanDefinitionName -->person
+11:13:13.004 [main] INFO  MyTest - beanDefinitionName -->com.ta.bean.pojo.Color
+11:13:13.004 [main] INFO  MyTest - beanDefinitionName -->com.ta.bean.pojo.Red
+11:13:13.004 [main] INFO  MyTest - beanDefinitionName -->bill
+11:13:13.004 [main] INFO  MyTest - beanDefinitionName -->colorFactoryBean
+11:13:13.004 [main] INFO  com.ta.bean.pojo.ColorFactoryBean - ColorFactoryBean--->create
+11:13:40.522 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@56620197
+11:13:40.525 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\LinuxCondition.class]
+11:13:40.525 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.LinuxCondition
+11:13:40.525 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:40.526 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@498d318c
+11:13:40.526 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\MyImportSelector.class]
+11:13:40.526 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.MyImportSelector
+11:13:40.527 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:40.527 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@6e171cd7
+11:13:40.527 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\condition\WindowsCondition.class]
+11:13:40.527 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.condition.WindowsCondition
+11:13:40.527 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:40.529 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@123ef382
+11:13:40.530 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MainConfig2.class]
+11:13:40.530 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MainConfig2
+11:13:40.530 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:40.531 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@dbf57b3
+11:13:40.531 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyCondition.class]
+11:13:40.531 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyCondition
+11:13:40.531 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:40.532 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@384ad17b
+11:13:40.532 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\config\MyTypeFilter.class]
+11:13:40.532 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.config.MyTypeFilter
+11:13:40.532 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:40.534 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@61862a7f
+11:13:40.534 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\controller\HelloController.class]
+11:13:40.535 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.controller.HelloController
+11:13:40.535 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:40.536 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@441772e
+11:13:40.536 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\dao\HelloDao.class]
+11:13:40.536 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.dao.HelloDao
+11:13:40.536 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:40.537 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@7334aada
+11:13:40.537 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\Person.class]
+11:13:40.538 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.Person
+11:13:40.538 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:40.538 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@1d9b7cce
+11:13:40.538 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\pojo\Color.class]
+11:13:40.538 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.pojo.Color
+11:13:40.538 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:40.539 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@4d9e68d0
+11:13:40.539 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\pojo\ColorFactoryBean.class]
+11:13:40.540 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.pojo.ColorFactoryBean
+11:13:40.540 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:40.541 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@42e99e4a
+11:13:40.541 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\pojo\Red.class]
+11:13:40.541 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.pojo.Red
+11:13:40.541 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:40.542 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@14dd9eb7
+11:13:40.542 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloService.class]
+11:13:40.542 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloService
+11:13:40.542 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:40.543 [main] INFO  com.ta.bean.config.MyTypeFilter - --->annotationMetadata ：org.springframework.core.type.classreading.AnnotationMetadataReadingVisitor@52e6fdee
+11:13:40.543 [main] INFO  com.ta.bean.config.MyTypeFilter - --->resource： file [C:\idea_workspace\springboot-study\spring-annotation\target\classes\com\ta\bean\service\HelloServiceImpl.class]
+11:13:40.543 [main] INFO  com.ta.bean.config.MyTypeFilter - --->className：com.ta.bean.service.HelloServiceImpl
+11:13:40.543 [main] INFO  com.ta.bean.config.MyTypeFilter - --------------------------------------------------
+11:13:40.566 [main] INFO  c.ta.bean.condition.WindowsCondition - metadata--->org.springframework.core.type.StandardMethodMetadata@79924b
+11:13:40.567 [main] INFO  c.ta.bean.condition.WindowsCondition - metadata.getClass();--->class org.springframework.core.type.StandardMethodMetadata
+11:13:40.833 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalConfigurationAnnotationProcessor
+11:13:40.833 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalAutowiredAnnotationProcessor
+11:13:40.833 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalRequiredAnnotationProcessor
+11:13:40.833 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.annotation.internalCommonAnnotationProcessor
+11:13:40.833 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.event.internalEventListenerProcessor
+11:13:40.833 [main] INFO  MyTest - beanDefinitionName -->org.springframework.context.event.internalEventListenerFactory
+11:13:40.834 [main] INFO  MyTest - beanDefinitionName -->mainConfig2
+11:13:40.834 [main] INFO  MyTest - beanDefinitionName -->mainConfig
+11:13:40.834 [main] INFO  MyTest - beanDefinitionName -->helloController
+11:13:40.834 [main] INFO  MyTest - beanDefinitionName -->helloDao
+11:13:40.834 [main] INFO  MyTest - beanDefinitionName -->person
+11:13:40.834 [main] INFO  MyTest - beanDefinitionName -->com.ta.bean.pojo.Color
+11:13:40.834 [main] INFO  MyTest - beanDefinitionName -->com.ta.bean.pojo.Red
+11:13:40.834 [main] INFO  MyTest - beanDefinitionName -->bill
+11:13:40.834 [main] INFO  MyTest - beanDefinitionName -->colorFactoryBean
+11:24:13.321 [main] INFO  com.ta.bean.pojo.Car - Car() constructor。。。
+11:24:13.342 [main] INFO  IOCTest - AnnotationConfigApplicationContext....
+11:29:31.594 [main] INFO  com.ta.bean.pojo.Car - Car() constructor。。。
+11:29:31.599 [main] INFO  com.ta.bean.pojo.Car - Car() init。。。
+11:29:31.618 [main] INFO  IOCTest - AnnotationConfigApplicationContext....
+11:29:31.619 [main] INFO  com.ta.bean.pojo.Car - Car() detory。。。

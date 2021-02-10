@@ -1,0 +1,14 @@
+spring:
+  profiles:
+    active: dev
+  mail:
+    username: 584529403@qq.com
+    password: qasalispuoocbdfe
+    host: smtp.qq.com
+    properties:
+      mail:
+        smtp:
+          ssl:
+            enable: true
+#    开启加密验证
+
